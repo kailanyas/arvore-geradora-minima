@@ -15,6 +15,9 @@ Este projeto implementa o **algoritmo de Kruskal** para encontrar a **Árvore Ge
 - Implementação do algoritmo de Kruskal para encontrar a MST
 - Cálculo e exibição do comprimento total mínimo da MST
 
+## Execução
+- No Linux, basta executar o `MakeFile`
+
 ## Desenvolvido por
 
 - [Kailany Alves](https://github.com/kailanyas)
